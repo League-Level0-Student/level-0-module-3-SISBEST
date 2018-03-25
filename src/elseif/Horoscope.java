@@ -31,16 +31,17 @@ public class Horoscope {
 			System.out.println("Dont hesitate today, be spontaneous and do something different, your instincts will guide you. You can afford to be spontaneous today, Scorpio, it might even take you to places you never thought youd go. The one thing that will slow you down and hold you back is hesitation and indecision, so dont give these emotions room to influence you. Take a chance and do something without thinking. Your instincts will tell you whats right for you.");
 		}
 		if (Sign.equals("Sagittarius")) {
-			System.out.println("");
+			System.out.println("Be honest today and accept that you may need help, its time to call in some favours owed. You are going to need to call in some favours today and you may need to bring your more adventurous side out in order to feel comfortable taking some risks. Be honest and put your cards on the table. Once everything is out in the open you can start to find solutions and move forward, but do accept that you may need help. Dont try to do everything yourself.");
 		}
 		if (Sign.equals("Capricorn")) {
-			System.out.println("");
+			System.out.println("As Pluto ends its time square with Venus today, youll discover insights about behaviour. Pluto in Capricorn ends its time square with Venus today, giving you the opportunity to discover insights into the behaviour of others, and yourself. Some of this you might need to keep under your hat for now, as it could concern someone close to you, but where your own behaviour is concerned, it will give you the chance to work on your personal growth.");
 		}
+
 		if (Sign.equals("Aquarius")) {
-			System.out.println("");
+			System.out.println("Pay attention to your responsibilities today and recognise that you are part of something bigger. Its a good day to deal with your obligations or attend to anything that you feel is your duty. This doesnt have to mean its a chore to you, your responsibilities could be connected to very positive things in your life. Recognise where your strengths are and realise that you are part of something much bigger, something that includes all those who are close to you.");
 		}
 		if (Sign.equals("Pisces")) {
-			System.out.println("");
+			System.out.println("Pay attention to your responsibilities today and recognise that you are part of something bigger. It's a good day to deal with your obligations or attend to anything that you feel is your duty. This doesnt have to mean its a chore to you, your responsibilities could be connected to very positive things in your life. Recognise where your strengths are and realise that you are part of something much bigger, something that includes all those who are close to you.");
 		}
 	}
 }
